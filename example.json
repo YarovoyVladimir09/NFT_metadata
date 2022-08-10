@@ -1,10 +1,10 @@
 {
-    "name": "YouTube NFT",
-    "symbol": "TUBE",
+    "name": "NFT_contract",
+    "symbol": "DDG",
     "description": "A test for our NFT example.",
     "seller_fee_basis_points": 5,
     "external_url": "",
     "edition": "",
     "background_color": "000000",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SpongeBob_SquarePants_character.svg/640px-SpongeBob_SquarePants_character.svg.png"
+    "image": "https://raw.githubusercontent.com/YarovoyVladimir09/NFT_metadata/main/Screenshot%20from%202022-08-10%2017-09-18.jpg"
 }
